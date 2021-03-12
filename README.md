@@ -2,4 +2,4 @@
 Just another repository
 
 Just say Hello!
-no else chenges
+no else changes
